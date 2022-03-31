@@ -1,0 +1,47 @@
+
+
+.footer-top{
+    height: 350px;
+    padding: 60px;
+    background-color: rgb(39, 39, 39);
+    align-items: center;
+    text-align: center;
+}
+
+.subs-head{
+    color: blanchedalmond;
+}
+b{
+  
+    color: rgb(153, 150, 150);
+}
+.heart{
+    color: red;
+}
+
+.footer-email{
+    padding: 9px;
+    width: 250px;
+    margin-right: 13px;
+}
+
+.footer-bottom{
+    height: 200px;
+    background-color: black;
+    padding: 60px;
+}
+
+.icons{
+    display: flex;
+align-items: center;
+justify-content: space-evenly;
+padding-left: 50px;
+padding-right: 50px;
+
+}
+
+.text{
+    padding: 50px;
+    text-align: center;
+}
+

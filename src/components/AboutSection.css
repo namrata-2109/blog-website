@@ -1,0 +1,63 @@
+
+.heading{
+    margin-bottom: 30px;
+    width: 350px;
+    height: 30px;
+    background-color: black;
+    text-align: center;
+    color: rgb(192, 187, 180);
+}
+
+.section-body{
+    text-align: center;
+    width: 350px;
+}
+
+.section-touch{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-bottom: 30px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+.fab1{
+    color: rgb(165, 42, 42);
+    cursor: pointer;
+}
+.fab2{
+    color: blue;
+    cursor: pointer;
+}
+.fab3{
+    color: red;
+    cursor: pointer;
+}
+.fab4{
+    color: rgb(31, 28, 28);
+    cursor: pointer;
+}
+.fab5{
+    color: blue;
+    cursor: pointer;
+}
+.fab6{
+    color: rgb(11, 165, 165);
+    cursor: pointer;
+}
+
+.image-row{
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-bottom: 40px;
+}
+.quotes{
+    margin-top: 30px;
+}
+
+.quotes-para{
+    padding-left: 30px;
+    padding-right: 30px;
+    text-align: center;
+}

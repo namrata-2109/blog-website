@@ -1,0 +1,35 @@
+/* .home-left{
+    width: 70%;
+} */
+/* .home-left{
+    padding-left: 40px;
+    padding-right: 40px;
+} */
+.home-left-headings{
+   
+    margin-bottom: 30px;
+    width: 750px;
+    height: 30px;
+    background-color: black;
+    text-align: center;
+    color: rgb(192, 187, 180);
+}
+.image{
+    padding-bottom: 80px;
+}
+
+img:hover{
+    cursor: pointer;
+}
+
+
+.stories{
+    width: 750px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around; 
+}
+
+.stories-para{
+    width: 300px;
+}
